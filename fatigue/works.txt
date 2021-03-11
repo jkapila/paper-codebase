@@ -1,0 +1,182 @@
+1) on prem - brian is working on it...
+
+2) What we do , What capabilities, how far we can go?
+	- Campaigns
+	- Simple framework of now
+	- Personalized framework needed
+	- 
+	
+3) Expectations:
+	- All should come under us
+	- Efficiency is in need
+	- 
+
+4) Projects in pipeline
+	- Price promotion
+	- Store traffic analysis for + brands
+	- Churn Forecasting
+	- Replnishment forecasting
+	- Demand Forecasting
+	- LTV dashboard
+	- Assorment Planning work Supply Chain Mgmnt ( the mess from the data standpoint)
+
+5) Github Hygiene is needed..
+
+6) GCP - :
+	- Ecomm was already engaged with GCP..
+	- 
+	
+	
+****************************************************************************************************************************************
+
+to get promotional responders
+
+1) SALES_TRANSACTIONAL_DETAIL -has all detaisl at sku level
+2) PROMO_SKU_STORE_DAY - has relationship of sku and promo
+3) PROMO_HEADER  - details of promotional offers
+4) FOR CLEARENCE related data map with CLEARENCE_DC and/or CLEARENCE_SKULIST
+
+****************************************************************************************************************************************
+
+	
+
+Tasks in my bucket:
+
+
+	1) Replenishment Model
+	2) MDO QC updates
+	3) Quotation for Social Media Data Aggregrators
+	4) Prod code for product and data recognition from imgae(Prabhu's) piece and Hard Segments of products
+	5) KNN tree on word to vec
+	6) Document Capsules
+	7) Bayes Vector Machine
+	8) Image Tree
+	9) Blockchain 
+	
+	
+571-363-1900
+
+****************************************************************************************************************************************
+
+1) Overlay:
+	- Haar Cascade
+	- opencv feature descriptor + key point (plane creationa nd cloth overlay to be done) - 9/5/2019 (MJ)
+	- pose estimation (identify relevant point, plane creation and cloth overlay to be done) - 10/5/2019 (MJ)
+	- Swapnet code run and what next steps - 10/5/2019 (RI)
+	                    
+2) Fit Size: (ON HOLD)
+
+	- Camera calibaration - for fit size
+	- Write a algo from scratch
+	- Pre trained model rough estimate from the image
+	
+	
+3) Fit size match -
+	- Match algorithms from above and color irrelavant points - JK
+	
+**************************************************************************************************************************************
+
+
+
+
+1) kind of weekly update for initial POC
+2) third party data
+
+
+topics:
+
+1) third party
+2) enhancemnt
+3) internal survey data
+4) scorecard
+5) projection
+
+but social has bigger and larger audience.
+
+
+1) Business document - business case
+2) Third party data cost
+3) Third party data ingestion architecture
+4) List of third Party Aggregators
+5)  
+
+
+**************************************************************************************************************************************
+
+
+
+List of Social Media Aggregarators:
+
+	1) 
+	2) DataSift : https://datasift.com
+	3) Tint     : https://www.tintup.com/
+	4) Juicer   : https://www.juicer.io/
+	5) Pixlee   : https://www.pixlee.com/
+	6) Sprinklr : https://www.sprinklr.com/
+	7) Curator  : https://curator.io
+
+For more references use: 
+https://www.quora.com/What-is-the-best-social-media-aggregator-I-d-like-to-be-able-to-read-my-friends-feeds-from-Facebook-Twitter-Google-etc-in-one-place
+
+
+Also we only need the data ingestion for various social medai platform. We dont need any other services from them.
+
+
+
+
+**************************************************************************************************************************************
+data sources:
+
+1) bamboo rose -  for product attriutes
+2) use some papers for replnishment and inventory
+3) use xgboost to make baseline model
+4) understand more of about data
+
+expectation:
+
+1) demand model
+2) invetory model - replnishment
+3) inventory model - service level
+4) inventory model - trend forecasting within system 
+5) allocation 2 times/week - for horizon 52 weeks
+
+
+overlap between demand model and LOFT price based promotion model
+
+
+
+
+
+**************************************************************************************************************************************
+
+Constrained forcast.. 
+capping on sales values based on business investment in other plans... (intervention strategy)
+
+how are we going to consume the it in the plans..
+
+
+Constrained view is much ahead in time...
+long range planning based on sales history only...
+
+
+
+model should be refreshed every week only...
+
+unconstrained forecast is input to merchandised plan, based on this they make the decision...
+
+
+in season forecasting horizon -  13 weeks (question to joe)
+for pre seasoan and long term forecast = lead time + duration (leda time definition from joe)
+
+accenture is changing every month 
+
+
+
+
+
+
+
+
+
+
+

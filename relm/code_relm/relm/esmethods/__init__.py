@@ -1,0 +1,1 @@
+from .methods import CMAES,SimpleGA,PEPG,OpenES
